@@ -1,4 +1,8 @@
-    console.log("merhaba dünya")
+    
+    let student = {id:1,name:"yağız"}
+    
+    function save(student) {
+        console.log()
+    }
 
-    let dolarDun = 9.20
-    let dolarBugun = 9.30
+    save();

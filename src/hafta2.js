@@ -78,8 +78,7 @@ function findPrime2(){
         if (kontrol) {
             console.log(i)
         }
-        kontrol=true
-          
+        kontrol=true         
     }
 }
 findPrime2()
